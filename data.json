@@ -1,0 +1,104 @@
+{
+  "tema": "Agujeros negros",
+  "descripcion_general": "Un agujero negro es una región del espacio-tiempo donde la gravedad es tan intensa que nada, ni siquiera la luz, puede escapar una vez cruza el horizonte de eventos.",
+
+  "formacion": {
+    "descripcion": "La mayoría de los agujeros negros se forman cuando una estrella masiva colapsa bajo su propia gravedad después de agotar su combustible nuclear.",
+    "masa_minima_estrella": "Aproximadamente 20 veces la masa del Sol para producir un agujero negro estelar.",
+    "masa_remanente_minima": "Alrededor de 2.5 a 3 masas solares en el núcleo colapsado.",
+    "proceso": [
+      "La estrella agota su combustible nuclear",
+      "La presión interna disminuye",
+      "La gravedad colapsa el núcleo",
+      "Puede ocurrir una supernova",
+      "El núcleo restante colapsa formando un agujero negro"
+    ]
+  },
+
+  "propiedades_fisicas": {
+    "gravedad": "Extremadamente intensa debido a la enorme masa concentrada en un volumen muy pequeño.",
+    "velocidad_escape": "Mayor que la velocidad de la luz dentro del horizonte de eventos.",
+    "densidad": "Teóricamente infinita en la singularidad.",
+    "temperatura_teorica": "Emitirían una radiación muy débil llamada radiación de Hawking."
+  },
+
+  "estructura": {
+    "singularidad": "El punto central donde toda la masa se concentra.",
+    "horizonte_de_eventos": "El límite alrededor del agujero negro donde la velocidad de escape supera la velocidad de la luz.",
+    "disco_de_acrecion": "Material caliente que gira alrededor del agujero negro antes de caer en él.",
+    "chorros_relativistas": "Columnas de partículas energéticas expulsadas desde las regiones cercanas al agujero negro."
+  },
+
+  "tipos": [
+    {
+      "nombre": "Agujeros negros estelares",
+      "masa": "Entre 3 y 100 masas solares",
+      "origen": "Colapso de estrellas masivas"
+    },
+    {
+      "nombre": "Agujeros negros intermedios",
+      "masa": "Entre 100 y 100000 masas solares",
+      "origen": "Posible fusión de agujeros negros más pequeños"
+    },
+    {
+      "nombre": "Agujeros negros supermasivos",
+      "masa": "Millones o miles de millones de masas solares",
+      "origen": "Se encuentran en el centro de galaxias"
+    },
+    {
+      "nombre": "Agujeros negros primordiales",
+      "masa": "Podrían ser muy pequeños",
+      "origen": "Teóricamente formados poco después del Big Bang"
+    }
+  ],
+
+  "atraccion_gravitatoria": {
+    "descripcion": "La gravedad de un agujero negro depende de su masa y distancia, como cualquier objeto con masa.",
+    "ejemplo": {
+      "agujero_negro_masa_solar": "Si el Sol fuera reemplazado por un agujero negro de la misma masa, la Tierra seguiría orbitando igual.",
+      "cerca_del_horizonte": "La gravedad aumenta extremadamente cerca del horizonte de eventos."
+    }
+  },
+
+  "deteccion": {
+    "metodos": [
+      "Observando estrellas orbitando un objeto invisible",
+      "Detectando rayos X del material caliente del disco de acreción",
+      "Detectando ondas gravitacionales producidas por colisiones",
+      "Observando la sombra del agujero negro"
+    ],
+    "ejemplo_famoso": "El agujero negro Sagittarius A* en el centro de la Vía Láctea."
+  },
+
+  "fenomenos": {
+    "espaguetificacion": "Un objeto que cae sería estirado por la diferencia extrema de gravedad entre sus extremos.",
+    "lente_gravitacional": "La gravedad curva la luz que pasa cerca.",
+    "dilatacion_temporal": "El tiempo pasa más lentamente cerca de un agujero negro."
+  },
+
+  "curiosidades": [
+    "El primer agujero negro fotografiado fue el de la galaxia M87 en 2019.",
+    "Los agujeros negros pueden fusionarse produciendo ondas gravitacionales.",
+    "Algunos pueden ser miles de millones de veces más masivos que el Sol."
+  ],
+
+  "faq": [
+    {
+      "pregunta": "¿Puede escapar algo de un agujero negro?",
+      "respuesta": "No, una vez que algo cruza el horizonte de eventos no puede escapar."
+    },
+    {
+      "pregunta": "¿Un agujero negro puede destruir la Tierra?",
+      "respuesta": "Solo si uno estuviera extremadamente cerca, lo cual es muy improbable."
+    },
+    {
+      "pregunta": "¿Los agujeros negros crecen?",
+      "respuesta": "Sí, pueden crecer al absorber materia o fusionarse con otros agujeros negros."
+    },
+    {
+      "pregunta": "¿Los agujeros negros mueren?",
+      "respuesta": "Teóricamente sí, mediante la radiación de Hawking perderían masa lentamente."
+    }
+  ]
+}
+
