@@ -1,4 +1,4 @@
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "tu-key-aqui";
 
 // VARIABLES DE ESTADO
 let conversations = []; 
