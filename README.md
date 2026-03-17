@@ -1,4 +1,4 @@
-# 🤖 Campuslands AI Assistant
+# 🤖 Blackholes AI Assistant
 
 Asistente virtual inteligente de alto rendimiento desarrollado para Campuslands. El sistema utiliza modelos de lenguaje avanzados a través de OpenRouter para ofrecer respuestas precisas basadas en una base de conocimientos propietaria, gestionando sesiones independientes y control de inactividad.
 
