@@ -51,8 +51,7 @@ Implementa una lógica de limpieza y optimización de recursos:
 
 **1. Clonación**
 ```bash
-git clone https://github.com/CRISTIAN7712/Campuslands-AI-Assistant.git
-cd Campuslands-AI-Assistant
+git clone https://github.com/SantiagoRuedaGarciaPer/BlackHoles_IA_Asistant
 ```
 
 **2. API Key**
@@ -95,10 +94,6 @@ El sistema cuenta con protecciones para:
 
 ---
 
-> *Campuslands AI — Transformando la educación tecnológica con inteligencia artificial.*
-
----
-
 ## Licencia
 
 MIT License
@@ -126,7 +121,7 @@ SOFTWARE.
 ---
 
 👤 Autor:
-Desarrollado por Ing. Cristian Díaz
+Desarrollado por Santiago Rueda Garcia
 
 ---
 <p align="center">
